@@ -12,4 +12,4 @@ My research interests lie in Blockchain Security.
 
 I received my B.E. Degree in Automation from [South China Agricultural University](https://english.scau.edu.cn/) in 2017.
 
-#### [CV]()
+#### [CV](assets/pdf/Resume_Zhihua%20Yang_12_2022.pdf)
