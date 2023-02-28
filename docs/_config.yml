@@ -21,6 +21,8 @@
 title: Zhihua Yang's Blog
 author: Zhihua Yang
 email: zyang47@syr.edu
+pic: assets/img/me.jpg
+cv: assets/pdf/Resume_Zhihua Yang_12_2022.pdf
 
 description: >- # this means to ignore newlines until "baseurl:"
   Zhihua Yang's personal website.
@@ -31,11 +33,14 @@ url: "https://snail-ino.github.io/" # the base hostname & protocol for your site
 
 twitter_username: hua_void
 github_username:  snail-inO
+linkedin_username:  zhihua-yang
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
