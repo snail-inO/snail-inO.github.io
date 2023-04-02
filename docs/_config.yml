@@ -31,7 +31,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 domain: snail-ino.github.io
 url: "https://snail-ino.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
-twitter_username: hua_void
 github_username:  snail-inO
 linkedin_username:  zhihua-yang
 
