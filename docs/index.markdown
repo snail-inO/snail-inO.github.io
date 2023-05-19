@@ -12,3 +12,4 @@ I am a Master student in Computer Engineering Program studying at [Syracuse Univ
 My research interests lie in Blockchain related topics.
 
 I received my B.E. Degree in Automation from [South China Agricultural University](https://english.scau.edu.cn/) in 2017.
+I received my M.S. Degree in Computer Engineering from [Syracuse Univerisity](https://www.syracuse.edu/) in 2023.
