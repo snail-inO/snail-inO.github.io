@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Zhihua Yang's Blog
+title: Zhihua Yang's Web
 author: Zhihua Yang
 email: zyang47@syr.edu
 pic: assets/img/me.jpg
 cv: assets/pdf/CV.pdf
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Zhihua Yang's personal website.
+  Zhihua Yang's website.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: snail-ino.github.io
