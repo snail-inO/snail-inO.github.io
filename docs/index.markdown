@@ -7,9 +7,9 @@ title: About me
 ---
 # Welcome
 
-I am a Master student in Computer Engineering Program studying at [Syracuse Univerity](https://www.syracuse.edu/) since 2021. And I work as a research assistant in [FullStack Security Lab](https://tristartom.github.io/members.html) advised by [Prof. Yuzhe Tang](https://tristartom.github.io/index.html).
+I am a Ph.D. student advised by [Prof. Yuzhe Tang](https://tristartom.github.io/index.html) in the CISE Program, and I have been studying at [Syracuse University](https://www.syracuse.edu/) since 2023.
 
-My research interests lie in Blockchain related topics.
+My research interests mainly lie in Blockchain Layer2 topics.
 
-I received my B.E. Degree in Automation from [South China Agricultural University](https://english.scau.edu.cn/) in 2017.
-I received my M.S. Degree in Computer Engineering from [Syracuse Univerisity](https://www.syracuse.edu/) in 2023.
+I received my B.E. in Automation from [South China Agricultural University](https://english.scau.edu.cn/) in 2017.  
+I received my M.S. in Computer Engineering from [Syracuse University](https://www.syracuse.edu/) in 2023.
