@@ -9,7 +9,11 @@ I am a Ph.D. student advised by [Prof. Yuzhe Tang](https://tristartom.github.io/
 
 ## Research Interest
 
-My research interests mainly lie in Blockchain Layer2 topics.
+My research interests mainly lie in distributed system security and performance optimization.
+
+## Publications
+
+- Wang, Y., Tang, Y., Li, K., Ding, W., & Yang, Z. (2024). Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolic Stateful Fuzzing. The 33rd USENIX Security Symposium [[Link](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-yibo)]
 
 ## Degrees
 
